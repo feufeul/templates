@@ -1,0 +1,1 @@
+HexColor(#FF00FF)		->	/^#[a-zA-Z0-9]{6}$/
